@@ -21,9 +21,9 @@ This project serves as a comprehensive guide to dealing with massive datasets. I
 ## Dataset
 This project explores a large dataset containing over a million rows, covering various cross-sections of data. The exact nature of the data has been anonymized to maintain privacy and confidentiality.
 Languages / Libraries Used
-	•	Python
-	•	Pandas
-	•	NumPy
-	•	Matplotlib
-	•	Seaborn
+	-	Python
+	-	Pandas
+	-	NumPy
+	-	Matplotlib
+	-	Seaborn
 Please refer to the Jupyter Notebook for detailed code, visualizations and comments explaining our exploratory data analysis process.
